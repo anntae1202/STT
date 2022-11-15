@@ -12,7 +12,6 @@ huggingface의 wav2vec2를 사용.
 
 가상환경 : docker 컨테이너 환경 구축
 
-docker pull dzw001/cuda11.1-cudnn8-python3.6-pytorch1.8.1-ubuntu18.04
 ![image](https://user-images.githubusercontent.com/77049097/201839953-92b94145-e852-4013-b233-28566d1e5b59.png)
 
 
